@@ -123,7 +123,15 @@ If a provider hits a rate limit or returns an error, the bot automatically tries
 
 ---
 
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-#
+
+---
+*Created with ❤️ by [Deepak5556](https://github.com/Deepak5556)* 
