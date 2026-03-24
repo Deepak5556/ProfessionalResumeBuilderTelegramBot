@@ -1,0 +1,8 @@
+python-telegram-bot
+google-generativeai
+groq
+requests
+python-dotenv
+pdfplumber
+pydantic
+pydantic-settings
